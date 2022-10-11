@@ -1,0 +1,31 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+.carousel-inner img {
+    width: 100%;
+    height: 90vh;
+  }
+.navbar {
+margin: 5px 0;
+
+}
+.container-fluid{
+background-color: black;
+font-family:'smooch',cursive ;
+
+}
+
+.brand-name {
+font-family: 'Josefin Slab', serif;
+font-size: 47px;
+font-weight: bold;
+text-decoration: none;
+}
+.nav-item {
+font-family: 'Josefin Slab', serif;
+font-size: 20px;
+text-decoration: none;
+ }
+ .carousel-inner{
+ 	font-family: 'Josefin Slab', serif;
+font-size: 20px;
+ }
